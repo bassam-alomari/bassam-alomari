@@ -15,7 +15,6 @@
 - 🔐 **Cryptography Enthusiast** — learning RSA encryption
 - 🐍 **Python Developer** — learning fast, building faster
 - 🎥 **YouTube Content Creator** — sharing my coding journey
-- 🏆 **Hackathon Participant** — GSMA MENA Ignite + Tech3Arabi 2026
 
 ---
 
