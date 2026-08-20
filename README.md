@@ -37,7 +37,6 @@
 
 - 🐍 Mastering Python (21 sections completed in4 days!)
 - 🧩 DSA Problem Solving (NeetCode 150)
-- 🏆 Preparing for Hackathons (GSMA MENA Ignite + Tech3Arabi)
 - 🌐 Network Engineering Field Training
 - 🔐 Cryptography Course (RSA)
 
