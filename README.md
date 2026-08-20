@@ -2,7 +2,7 @@
 
 # Hey there, I'm Bassam Alomari! 👋
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=bassam-alomari&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -33,25 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bassam-alomari&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bassam-alomari&theme=radical" width="48%"/>
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<a href="https://github.com/bassam-alomari/python-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bassam-alomari&repo=python-learning&theme=radical" />
-</a>
-
----
-
 ## 🎯 Currently Working On
 
 - 🐍 Mastering Python (21 sections completed in4 days!)
@@ -73,7 +54,5 @@
 <div align="center">
 
 **⚡ Fun Fact:** I learned Python basics in4 days and solved my first DSA problem on the same day! 🚀
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Coding"/>
 
 </div>
