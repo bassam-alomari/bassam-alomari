@@ -46,9 +46,9 @@ Implementation of the RSA algorithm (key generation, encryption, decryption) bui
 A systems programming project using pipes and fork() to run parallel computations between parent and child processes.
 `[Add repo link here]`
 
-### 🐍 [Add a Python project here]
+### 🐍 [https://github.com/bassam-alomari/python-learning]
 Short description of what it does and what you learned building it.
-`[Add repo link here]`
+`https://github.com/bassam-alomari/python-learning`
 
 > 💡 *Replace the placeholders above with your actual repo links — this section is the first thing recruiters look at.*
 
