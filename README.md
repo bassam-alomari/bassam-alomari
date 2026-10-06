@@ -2,7 +2,7 @@
 
 # Hey there, I'm Bassam Alomari 👋
 
-### CS Student | Software Engineering | Python & C++ & Web Developer
+### CS Student | Backend Software Engineer | Python & C++ & Web Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bassam-alomari&style=flat&color=blue&label=PROFILE+VIEWS)
 
